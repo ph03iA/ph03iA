@@ -1,8 +1,8 @@
 I'm an Undergraduate Student and I do programming for fun!!!
 
- ![68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f696c6c756d696e617469706172726f742e676966](https://github.com/ph03iA/ph03iA/assets/134228742/9cd94f8f-086b-4153-aa18-2222a80a055a)I watch anime and play games 🎮
+<img src="https://giphy.com/gifs/demon-slayer-dead-calm-episode-20-f7k6TfAFkiAqKVcJGH/fullscreen.gif" width="40" height="40" />I watch anime and play games 🎮
    
-  ![68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d75737461636865706172726f742e676966](https://github.com/ph03iA/ph03iA/assets/134228742/802e533e-da8b-4f6b-aafb-a6f03b439110)       I’m currently spending my time on learning advance PYTHON
+<img src="https://i.gifer.com/Ao.gif.gif" width="40" height="40" />I’m currently spending my time on learning advance PYTHON
   
-![68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966](https://github.com/ph03iA/ph03iA/assets/134228742/e3cce81a-70c5-4669-b465-dffa27fd655e)       I love to paint🎨 and play badminton🏸
+<img src="https://i.gifer.com/7IOd.gif.gif" width="40" height="40" />I love to paint🎨 and play badminton🏸
 
