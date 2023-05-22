@@ -6,5 +6,5 @@
   
 •  <img src="https://media.giphy.com/media/VhtSLWxOQOGdFfGTTa/giphy.gif" width="40" height="40" /> I love to sketch🎨 and sleep
 
-If you wanna see my anime recommendations [**Click here**](https://github.com/ph03iA/Anime-List)
+   Wanna see my anime recommendations? [**Click here**](https://github.com/ph03iA/Anime-List)
 
