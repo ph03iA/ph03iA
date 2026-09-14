@@ -1,6 +1,6 @@
 # Hi, I'm Prajwal 👋
 
-Software engineer, self-taught into full-stack and AI-adjacent development. Based in Pune, India.
+Software engineer, self-taught into full-stack and AI-adjacent development. Based in Nagpur, India.
 
 - 🔭 Frontend Development Intern at **Cognitiq AI**, working on the React/TypeScript frontend of a production LMS
 - 🧠 Freelance AI Trainer at **DataAnnotation**, evaluating LLM outputs on coding tasks
