@@ -11,7 +11,7 @@ Software engineer, self-taught into full-stack and AI-adjacent development. Base
 
 ## Featured Projects
 
-### [Context Graph](https://github.com/ph03iA/Dodge-AI-assignment)
+###Context Graph
 NL-to-SQL LLM pipeline over a 1,700+ node PostgreSQL graph.
 [Live demo](https://dodge-ai-assignment.vercel.app/)
 
@@ -19,7 +19,7 @@ NL-to-SQL LLM pipeline over a 1,700+ node PostgreSQL graph.
 Full-stack collaborative interview platform built with WebSockets, Docker, Node.js, and MongoDB.
 [Live demo](https://evalo-jw79.onrender.com/) 
 
-### [LinkedIn Profile API](https://github.com/ph03iA/Profile-API)
+###LinkedIn Profile API
 Hosted LinkedIn profile-scraping API with Google OAuth-based reviewer authentication.
 
 
