@@ -25,7 +25,7 @@ Hosted LinkedIn profile-scraping API with Google OAuth-based reviewer authentica
 
 ## Tech Stack
 
-`React` `TypeScript` `Next.js` `NestJS` `Node.js` `Go` `Python` `MongoDB` `PostgreSQL` `Redis` `Docker` `AWS`
+`React` `TypeScript` `Next.js` `Node.js` `Go` `Python` `MongoDB` `PostgreSQL` `Redis` `Docker` `AWS`
 
 ## Connect
 
